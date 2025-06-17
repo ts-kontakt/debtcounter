@@ -2,7 +2,7 @@
 
 My attempt at Polish public debt counter
 
-The counter uses functions called recursively via <code>setTimeout</code>. The script does not create any global variables and is smaller in size than other versions of counters.
+The counter uses functions called recursively via <code>setTimeout</code>. 
 
 <p align="left">
 <img src="debtcounter.gif"   width="380" style="max-width: 100%;max-height: 100%;">
