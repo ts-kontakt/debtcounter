@@ -2,7 +2,9 @@
 
 My attempt at Polish public debt counter
 
-The counter uses functions called recursively via <code>setTimeout</code>. 
+The countdown is done by setimeout called recursively.
+Sometimes it can make more sense to use a recursive ``` setTimeout``` timer instead of a ```setInterval```
+(although not necessarily in this case.)
 
 <p align="left">
 <img src="debtcounter.gif"   width="380" style="max-width: 100%;max-height: 100%;">
